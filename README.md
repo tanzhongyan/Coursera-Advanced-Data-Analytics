@@ -19,7 +19,7 @@ This repository contains all projects and assignments from the Google Data Analy
 ### Get Started with Python: [Certificate](https://coursera.org/share/a8fbbcc5bc5d9531f848547328c95fec)
 
 ### Go Beyond the Numbers: Translate Data into Insights: [Certificate](https://coursera.org/share/2a00d3cf1fddfe92d8f9b0b9563d68e8)
-- **COURSE CONCLUSION**: [Activity_Course 3 TikTok project lab](./Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights/Activity_Course 3 TikTok project lab.ipynb)
+- **COURSE CONCLUSION**: [Activity_Course 3 TikTok project lab](./Go%20Beyond%20the%20Numbers%3A%20Translate%20Data%20into%20Insights/Activity_Course_3_TikTok_project_lab.ipynb)
 - [Activity: Address Missing Data](./Activity_Address_missing_data.ipynb)
 - [Activity: Discover What is in Your Dataset](./Activity_Discover_what_is_in_your_dataset.ipynb)
 - [Activity: Structure Your Data](./Activity_Structure_your_data.ipynb)
