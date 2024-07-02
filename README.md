@@ -12,8 +12,8 @@ This repository contains all projects and assignments from the Google Data Analy
 ## Table of Contents
 
 ### Capstone Project: [Certificate](https://coursera.org/share/72684cadfbbe503015a46a8a4c35f716)
-
-[Salifort Motors HR Retention](Google%20Advanced%20Data%20Analytics%20Capstone/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
+- [Salifort Motors HR Retention](Google%20Advanced%20Data%20Analytics%20Capstone/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
+- 
 ### Foundations of Data Science: [Certificate](https://coursera.org/share/9b12149e670866754fe1779bbec8345f)
 
 ### Get Started with Python: [Certificate](https://coursera.org/share/a8fbbcc5bc5d9531f848547328c95fec)
