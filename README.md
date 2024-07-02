@@ -76,7 +76,7 @@ Throughout this course, I learnt many useful skills, here is a summary of what I
   plt.bar(x="categories", height="values")
   sns.heatmap(data.corr())
   ```
-  ![App Screenshot](photo/countplot)
+  ![App Screenshot](photo/countplot.png)
 
 - Confusion matrix using sklearn:
   ```
@@ -84,7 +84,7 @@ Throughout this course, I learnt many useful skills, here is a summary of what I
   cm = confusion_matrix(y_data, model_pred, labels=model.classes_)
   disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=model.classes_)
   ```
-  ![App Screenshot](photo/confusionmatrix)
+  ![App Screenshot](photo/confusionmatrix.png)
 
 - plot_tree using sklearn:
   ```
@@ -93,7 +93,7 @@ Throughout this course, I learnt many useful skills, here is a summary of what I
   plot_tree(decision_tree, max_depth=2, fontsize=14, feature_names=X.columns, class_names={0:'stayed', 1:'churned'}, filled=True);
   plt.show()
   ```
-  ![App Screenshot](photo/plottree)
+  ![App Screenshot](photo/plottree.png)
 
 - Decision Tree Gini Importance plot
   ```
@@ -108,14 +108,14 @@ Throughout this course, I learnt many useful skills, here is a summary of what I
   importance
 
   ```
-  ![App Screenshot](photo/giniimportance)
+  ![App Screenshot](photo/giniimportance.png)
 
 - Feature importance using XGBoost
   ```
   from xgboost import plot_importance
   plot_importance(xgb_cv.best_estimator_);
   ```
-  ![App Screenshot](photo/featureimportance)
+  ![App Screenshot](photo/featureimportance.png)
 
 **Machine Learning**:
 - Logistic regression
