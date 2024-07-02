@@ -9,6 +9,16 @@ This repository contains all projects and assignments from the Google Data Analy
 - **Statistical Methods**: ANOVA, MANOVA, ANCOVA, MANCOVA, Chi-Square Goodness of Fit, Chi-Square Test of Independence
 - **Machine Learning Models**: Linear and Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
 
+## Reflection
+
+While taking this course, I discovered that data science was not as easy as I thought it was. Here are the three take aways that I have from this course:
+
+1. **There's no one size fit all solution, but we can rely on our intuition.**  Sometimes, there isn't even any clear direction or intuitive reason behind why some data are they way they are. Data science, like software development, relies on experience and intuition, often through hard core practicing and messing around with code. This means that we can only rely on our logic and intuition to try and derive useful insights.
+
+2. **Using machine learning models can be easy; it can be copy pasting code from a github. But a good understanding of how to model the data before the creation of model is vital to the model's performance.** As a common saying in my company during my internship: "Garbage in, Garbage out". This is especially true if we do not consider class imbalances and stratification of data. Sampling methods like oversampling and undersampling assist us in ensuring that our ML model doesn't churn out garbage. Additionally, taking note of missing data, fixing outliers, and normalising features are small little changes we can make to improve our model metrics. These are things that novice ML enthusiast may miss out as it seems that the creation of ML models are so easy. Just being slightly more obsessive regarding your data cleanliness and preperation can sigificantly improve model performance.
+
+3. **You don't have to remember all the code, just refer to notes and documentations online.** Often times, we believe that we should memorise how to write code to prove that we know what we are doing. However, in the field of ML, there are so many models, so much math, and countless other methods of doing a single task. This can get overwhelming at times, especially when you're starting out. Sometimes, using a cheatsheet or documentation doesn't make you less of a professional. Instead, it leaves space for you to consider and learn other aspects of your job. Relying on ChatGPT to write your code isn't unprofessional or shows your lack of understanding, it just means that you're writing code more efficiently, while understanding how the code is operated.
+
 ## Table of Contents
 
 ### Capstone Project: [Certificate](https://coursera.org/share/72684cadfbbe503015a46a8a4c35f716)
@@ -261,17 +271,6 @@ Throughout this course, I learnt many useful skills, here is a summary of what I
   | `max_depth`      | Maximum tree depth for base learners. Helps in controlling over-fitting. Typical values: 3, 5, 7, 9. |
   | `n_estimators`   | Number of gradient boosted trees. More can lead to better performance, but may also cause overfitting. Typical values: 100, 200, 300. |
   | `subsample`      | Subsample ratio of the training instance. Setting it to 0.5 means that XGBoost would randomly sample half of the training data prior to growing trees and this will prevent overfitting. Typical values: 0.5, 0.75, 1. |
-
-## Reflection
-
-While taking this course, I discovered that data science was not as easy as I thought it was. Here are the three take aways that I have from this course:
-
-1. **There's no one size fit all solution, but we can rely on our intuition.**  Sometimes, there isn't even any clear direction or intuitive reason behind why some data are they way they are. Data science, like software development, relies on experience and intuition, often through hard core practicing and messing around with code. This means that we can only rely on our logic and intuition to try and derive useful insights.
-
-2. **Using machine learning models can be easy; it can be copy pasting code from a github. But a good understanding of how to model the data before the creation of model is vital to the model's performance.** As a common saying in my company during my internship: "Garbage in, Garbage out". This is especially true if we do not consider class imbalances and stratification of data. Sampling methods like oversampling and undersampling assist us in ensuring that our ML model doesn't churn out garbage. Additionally, taking note of missing data, fixing outliers, and normalising features are small little changes we can make to improve our model metrics. These are things that novice ML enthusiast may miss out as it seems that the creation of ML models are so easy. Just being slightly more obsessive regarding your data cleanliness and preperation can sigificantly improve model performance.
-
-3. **You don't have to remember all the code, just refer to notes and documentations online.** Often times, we believe that we should memorise how to write code to prove that we know what we are doing. However, in the field of ML, there are so many models, so much math, and countless other methods of doing a single task. This can get overwhelming at times, especially when you're starting out. Sometimes, using a cheatsheet or documentation doesn't make you less of a professional. Instead, it leaves space for you to consider and learn other aspects of your job. Relying on ChatGPT to write your code isn't unprofessional or shows your lack of understanding, it just means that you're writing code more efficiently, while understanding how the code is operated.
-
 
 ## Conclusion
 
