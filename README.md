@@ -13,41 +13,42 @@ This repository contains all projects and assignments from the Google Data Analy
 
 ### Capstone Project: [Certificate](https://coursera.org/share/72684cadfbbe503015a46a8a4c35f716)
 
-[Salifort Motors HR Retention](./Activity_Course_7_Salifort_Motors_project_lab)
+[Salifort Motors HR Retention](Google%20Advanced%20Data%20Analytics%20Capstone/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
 ### Foundations of Data Science: [Certificate](https://coursera.org/share/9b12149e670866754fe1779bbec8345f)
 
 ### Get Started with Python: [Certificate](https://coursera.org/share/a8fbbcc5bc5d9531f848547328c95fec)
 
 ### Go Beyond the Numbers: Translate Data into Insights: [Certificate](https://coursera.org/share/2a00d3cf1fddfe92d8f9b0b9563d68e8)
 - **COURSE CONCLUSION**: [Activity_Course 3 TikTok project lab](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Course%203%20TikTok%20project%20lab.ipynb)
-- [Activity: Address Missing Data](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Address_missing_data.ipynb)
-- [Activity: Discover What is in Your Dataset](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Discover_what_is_in_your_dataset.ipynb)
-- [Activity: Structure Your Data](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Structure_your_data.ipynb)
-- [Activity: Validate and Clean Your Data](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Validate_and_clean_your_data.ipynb)
+- [Activity: Address Missing Data](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Address%20missing%20data.ipynb)
+- [Activity: Discover What is in Your Dataset](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Discover%20what%20is%20in%20your%20dataset.ipynb)
+- [Activity: Structure Your Data](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Structure%20your%20data.ipynb)
+- [Activity: Validate and Clean Your Data](Go%20Beyond%20the%20Numbers%20Translate%20Data%20into%20Insights/Activity_Validate%20and%20clean%20your%20data.ipynb)
 
 ### The Power of Statistics: [Certificate](https://coursera.org/share/107827b0e43be6b23e2b470b5c649e6c)
 - **COURSE CONCLUSION**: [Activity_Course 4 TikTok project lab](The%20Power%20of%20Statistics/Activity_Course%204%20TikTok%20project%20lab.ipynb)
-- [Activity: Explore Confidence Intervals](The%20Power%20of%20Statistics/Activity_Explore_confidence_intervals.ipynb)
-- [Activity: Explore Descriptive Statistics](The%20Power%20of%20Statistics/Activity_Explore_descriptive_statistics.ipynb)
-- [Activity: Explore Hypothesis Testing](The%20Power%20of%20Statistics/Activity_Explore_hypothesis_testing.ipynb)
-- [Activity: Explore Probability Distributions](The%20Power%20of%20Statistics/Activity_Explore_probability_distributions.ipynb)
-- [Activity: Explore Sampling](The%20Power%20of%20Statistics/Activity_Explore_sampling.ipynb)
+- [Activity: Explore Confidence Intervals](The%20Power%20of%20Statistics/Activity_Explore%20confidence%20intervals.ipynb)
+- [Activity: Explore Descriptive Statistics](The%20Power%20of%20Statistics/Activity_Explore%20descriptive%20statistics.ipynb)
+- [Activity: Explore Hypothesis Testing](The%20Power%20of%20Statistics/Activity_Explore%20hypothesis%20testing.ipynb)
+- [Activity: Explore Probability Distributions](The%20Power%20of%20Statistics/Activity_Explore%20probability%20distributions.ipynb)
+- [Activity: Explore Sampling](The%20Power%20of%20Statistics/Activity_Explore%20sampling.ipynb)
 
 ### Regression Analysis: [Certificate](https://coursera.org/share/81960a967d0946e89152d4cfd80dfa38)
 - **COURSE CONCLUSION**: [Activity_Course 5 TikTok project lab](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Course%205%20TikTok%20project%20lab.ipynb)
-- [Activity: Evaluate Simple Linear Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Evaluate_simple_linear_regression.ipynb)
-- [Activity: Hypothesis Testing with Python](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Hypothesis_testing_with_Python.ipynb)
-- [Activity: Perform Logistic Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Perform_logistic_regression.ipynb)
-- [Activity: Perform Multiple Linear Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Perform_multiple_linear_regression.ipynb)
-- [Activity: Run Simple Linear Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Run_simple_linear_regression.ipynb)
+- [Activity: Evaluate Simple Linear Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Evaluate%20simple%20linear%20regression.ipynb)
+- [Activity: Hypothesis Testing with Python](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Hypothesis%20testing%20with%20Python.ipynb)
+- [Activity: Perform Logistic Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Perform%20logistic%20regression.ipynb)
+- [Activity: Perform Multiple Linear Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Perform%20multiple%20linear%20regression.ipynb)
+- [Activity: Run Simple Linear Regression](Regression%20Analysis%20Simplify%20Complex%20Data%20Relationships/Activity_Run%20simple%20linear%20regression.ipynb)
 
 ### Machine Learning Techniques: [Certificate](https://coursera.org/share/7e4f62c9e56fc9be9771885226a05d64)
 - **COURSE CONCLUSION**: [Activity_Course 6 TikTok project lab](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Course%206%20TikTok%20project%20lab)
-- [Activity: Build a Naive Bayes Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_Naive_Bayes_model)
-- [Activity: Build a K-means Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_K_means_model)
-- [Activity: Build a Decision Tree](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_decision_tree)
-- [Activity: Build a Random Forest Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_a_random_forest_model)
-- [Activity: Build an XGBoost Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build_an_XGBoost_model)
+- [Activity: Build a Naive Bayes Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build%20a%20Naive%20Bayes%20model)
+- [Activity: Build a K-means Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build%20a%20K-means%20model)
+- [Activity: Build a Decision Tree](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build%20a%20decision%20tree)
+- [Activity: Build a Random Forest Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build%20a%20random%20forest%20model)
+- [Activity: Build an XGBoost Model](The%20Nuts%20and%20Bolts%20of%20Machine%20Learning/Activity_Build%20an%20XGBoost%20model)
+
 
 ## Key Learnings and Tools
 Throughout this course, I learnt many useful skills, here is a summary of what I have learnt:
