@@ -264,9 +264,9 @@ Throughout this course, I learnt many useful skills, here is a summary of what I
 
 ## Reflection
 
-While taking this course, I discovered that data science was not as easy as I thought it was. Here are the three take aways that I have from this cours
+While taking this course, I discovered that data science was not as easy as I thought it was. Here are the three take aways that I have from this course:
 
-1. **There's no one size fit all solution, but we can rely on our intuition.**  Sometimes, there isn't even any clear direction or intuitive reason behind why some data are they way they are. Data science, like software deelopment, relies on experience and intuition, often through hard core practicing and messing around with code.
+1. **There's no one size fit all solution, but we can rely on our intuition.**  Sometimes, there isn't even any clear direction or intuitive reason behind why some data are they way they are. Data science, like software development, relies on experience and intuition, often through hard core practicing and messing around with code.
 
 2. **Using machine learning models can be easy; it can be copy pasting code from a github. But a good understanding of how to model the data before the creation of model is vital to the model's performance.** As a common saying in my company during my internship: "Garbage in, Garbage out". This is especially true if we do not consider class imbalances and stratification of data. Sampling methods like oversampling and undersampling assist us in ensuring that our ML model doesn't churn out garbage. Additionally, taking note of missing data, fixing outliers, and normalising features are small little changes we can make to improve our model metrics. These are things that novice ML enthusiast may miss out as it seems that the creation of ML models are so easy. Just being slightly more obsessive regarding your data cleanliness and preperation can sigificantly improve model performance.
 
