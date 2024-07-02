@@ -11,7 +11,7 @@ This repository contains all projects and assignments from the Google Data Analy
 
 ## Reflection
 
-While taking this course, I discovered that data science was not as easy as I thought it was. Here are the three take aways that I have from this course:
+While taking this course, I discovered that data science was harder than I thought. Here are the three take aways that I have from this course:
 
 1. **There's no one size fit all solution, but we can rely on our intuition.**  Sometimes, there isn't even any clear direction or intuitive reason behind why some data are they way they are. Data science, like software development, relies on experience and intuition, often through hard core practicing and messing around with code. This means that we can only rely on our logic and intuition to try and derive useful insights.
 
